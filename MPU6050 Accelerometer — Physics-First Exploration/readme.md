@@ -23,9 +23,12 @@ While working with the accelerometer, I learned that **gravity always acts as a 
 
 Depending on the orientation of the sensor, gravity is **split across these axes**, and the actual value of gravity is obtained by taking the **magnitude** of the vector:
 
-\[
-|\vec{g}| = \sqrt{g_x^2 + g_y^2 + g_z^2} \approx 9.8 \text{ m/s}^2
-\]
+Gravity magnitude is computed as the vector length:
+
+|g| = sqrt(gx^2 + gy^2 + gz^2)
+
+which is approximately 9.8 m/s².
+
 
 So gravity is **never just “9.8” on one axis** — it always exists in all three components.
 
