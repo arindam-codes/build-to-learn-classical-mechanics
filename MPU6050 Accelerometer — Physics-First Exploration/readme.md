@@ -95,7 +95,7 @@ This setup helped distinguish between **software logic issues** and **real hardw
 
 I used **Wokwi simulation** to test the same logic in a controlled environment.
 
-[The Simulation](https://wokwi.com/projects/454457243086816257)
+[[The Simulation](https://wokwi.com/projects/454457243086816257)]
 
 In simulation:
 - The code worked perfectly
