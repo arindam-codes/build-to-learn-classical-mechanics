@@ -86,7 +86,7 @@ The following image shows the **actual physical hardware setup** used during thi
 
 This setup helped distinguish between **software logic issues** and **real hardware-related behavior** such as timing, noise, and wiring sensitivity.
 
-![MPU6050 Hardware Setup](/media/photos/Learning_Accelerometer_Physics_with_Arduino_(MPU6050).jpg)
+![MPU6050 Hardware Setup](./media/photos/Learning_Accelerometer_Physics_with_Arduino_(MPU6050).jpg)
 
 ---
 
