@@ -80,6 +80,17 @@ When things didn’t behave as expected, I wasn’t sure whether:
 
 ---
 
+## Hardware Setup (Physical)
+
+The following image shows the **actual physical hardware setup** used during this learning process, including the Arduino board and the MPU6050 sensor.
+
+This setup helped distinguish between **software logic issues** and **real hardware-related behavior** such as timing, noise, and wiring sensitivity.
+
+![MPU6050 Hardware Setup](media/photos/Learning_Accelerometer_Physics_with_Arduino_(MPU6050).jpg)
+
+---
+
+
 ### Using Simulation to Debug Thinking
 
 I used **Wokwi simulation** to test the same logic in a controlled environment.
