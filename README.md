@@ -182,15 +182,13 @@ This repository is designed to support:
 
 ---
 
-## 🚧 Work in Progress
+## 🚧 Project Status — Temporary Pause (Intentional)
 
-This repo evolves as:
-- Experiments improve
-- Theory deepens
-- Mistakes are corrected publicly
+This project is temporarily paused due to a scope mismatch identified during development.
 
-Physics is not about being right —  
-it’s about **being less wrong over time**.
+The initial approach combined classical mechanics, signal interpretation, and embedded sensor systems at an early stage. While each area is tractable independently, their simultaneous treatment introduced unnecessary complexity that hindered clear engagement with the theoretical framework of Kleppner & Kolenkow.
+
+Further progress will resume after strengthening the classical mechanics foundation using idealized models and controlled physical demonstrations. Sensor-based analysis will be revisited subsequently, with clearer separation between theory and instrumentation.
 
 ---
 
