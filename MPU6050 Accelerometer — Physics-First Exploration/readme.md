@@ -80,6 +80,7 @@ When things didn’t behave as expected, I wasn’t sure whether:
 ### Using Simulation to Debug Thinking
 
 I used **Wokwi simulation** to test the same logic in a controlled environment.
+
 [The Simulation](https://wokwi.com/projects/454457243086816257)
 
 In simulation:
